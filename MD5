@@ -1,0 +1,17 @@
+06af9d7198cd73634e142f9327423ff7 *DESCRIPTION
+3d1de2d94045a93a1615bc8abf205310 *NAMESPACE
+13bc43664ace433d2ec8f3c70cb5ad44 *R/MMPP.R
+a43f11e47beb925735972fe452ee3188 *man/colon-equals.Rd
+b97a0d6ff5d9b624492205d8a24e4fae *man/dirichlet.log.pdf.Rd
+9dee8b98f93c97616b56d263bd52d8db *man/dirichlet.pdf.Rd
+27a7aa67dc072f69f1b24c3e64bbe923 *man/draw.L.given.N0.Rd
+333168549d438e1a945940e50a6968c6 *man/draw.M.given.Z.Rd
+8e5c3f0ed0ca9a0b9025d7711c1c9af6 *man/draw.Z.given.NLM.Rd
+cecb11d5cf3f6094f4e91b58ad20d668 *man/logp.Rd
+f662734ab5bf1cf00c3f5c8bd7b7c0cc *man/mmppr.Rd
+dda593a97b2aa437cb89d53df6a9fc93 *man/prob.L.given.N0.Rd
+3a8ee1bca8ccc9f7cac84ba730c0d4b5 *man/prob.M.given.Z.Rd
+b42133771406d7510d5bf50a817e485c *man/prob.N.given.LM.Rd
+2a95b8038b7d768c7aafd009c02a163a *man/prob.N.given.LZ.Rd
+2f0fee27995636d1195c2b6e64deee51 *man/repmat.Rd
+b180154ace153d14f1f8c08b80a9b95e *man/sensorMMPP.Rd
